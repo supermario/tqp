@@ -1,0 +1,95 @@
+Trip Quote: Jan 18 2017
+
+
+**************************************************************
+FLIGHT OPTION 1
+
+MELBOURNE > SYDNEY
+ Total journey time:  1h 25m
+
+ Jetstar Airways Pty Limited - JQ 602
+ FROM: Avalon Arpt, Melbourne (AVV)
+ TO: Kingsford Smith, Sydney (SYD)
+ DEPARTS: Wed May 31 2017 at 06:00 AM
+ ARRIVES: Wed May 31 2017 at 07:25 AM
+ CABIN CLASS: Economy (H), DURATION:  1h 25m
+ OPERATED BY: Jetstar Airways Pty Limited, AIRCRAFT: Airbus Industrie A320-100/200
+
+SYDNEY > MELBOURNE
+ Total journey time:  1h 35m
+
+ Jetstar Airways Pty Limited - JQ 607
+ FROM: Kingsford Smith, Sydney (SYD)
+ TO: Avalon Arpt, Melbourne (AVV)
+ DEPARTS: Wed May 31 2017 at 03:25 PM
+ ARRIVES: Wed May 31 2017 at 05:00 PM
+ CABIN CLASS: Economy (H), DURATION:  1h 35m
+ OPERATED BY: Jetstar Airways Pty Limited, AIRCRAFT: Airbus Industrie A320-100/200
+
+Price per ADT (Including Tax): 163.59 AUD
+Total: 163.59 AUD (1 ADT)
+
+
+**************************************************************
+FLIGHT OPTION 2
+
+MELBOURNE > SYDNEY
+ Total journey time:  1h 25m
+
+ Virgin Australia International - VA 811
+ FROM: Tullamarine Arpt, Melbourne (MEL)
+ TO: Kingsford Smith, Sydney (SYD)
+ DEPARTS: Wed May 31 2017 at 07:00 AM
+ ARRIVES: Wed May 31 2017 at 08:25 AM
+ CABIN CLASS: Economy (S), DURATION:  1h 25m
+ OPERATED BY: Virgin Australia International, AIRCRAFT: Airbus Industrie A330-200
+
+SYDNEY > MELBOURNE
+ Total journey time:  1h 35m
+
+ Virgin Australia International - VA 850
+ FROM: Kingsford Smith, Sydney (SYD)
+ TO: Tullamarine Arpt, Melbourne (MEL)
+ DEPARTS: Wed May 31 2017 at 03:00 PM
+ ARRIVES: Wed May 31 2017 at 04:35 PM
+ CABIN CLASS: Economy (T), DURATION:  1h 35m
+ OPERATED BY: Virgin Australia International, AIRCRAFT: Boeing 737-800 (winglets)
+
+Price per ADT (Including Tax): 264.00 AUD
+Total: 264.00 AUD (1 ADT)
+
+
+**************************************************************
+HOTEL OPTION 1
+
+HOLIDAY INN DARLING HARBOUR
+
+ HOLIDAY INN DARLING HARBOUR
+ 68 HARBOUR ST
+ Sydney NS, AU
+
+ CHECK-IN: Wed May 31 2017
+ CHECK-OUT: Thu Jun 01 2017
+
+ADV PURCHASE BKFST SPECIAL SAVINGS ADVANCE PURCHASE. INCLUDES BREAKFAST FOR ONE OR TWO SUPERIOR ROOM WHEN YOU ARRIVE WE WILL DO OUR BED: N/A MEAL: B         VIEW: N/ABOOKINGS ARE NON-REFUNDABLE
+
+Price per night: 291.00 AUD
+Approximate total: 295.37 AUD
+
+
+**************************************************************
+HOTEL OPTION 2
+
+HOLIDAY INN DARLING HARBOUR
+
+ HOLIDAY INN DARLING HARBOUR
+ 68 HARBOUR ST
+ Sydney NS, AU
+
+ CHECK-IN: Wed May 31 2017
+ CHECK-OUT: Thu Jun 01 2017
+
+ADV PURCHASE BKFST SPECIAL SAVINGS ADVANCE PURCHASE. INCLUDES BREAKFAST FOR ONE OR TWO DELUXE ROOM WHEN YOU ARRIVE WE WILL DO OUR BEST BED: N/A MEAL: B         VIEW: N/ABOOKINGS ARE NON-REFUNDABLE
+
+Price per night: 316.00 AUD
+Approximate total: 320.74 AUD

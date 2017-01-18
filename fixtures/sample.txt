@@ -1,0 +1,88 @@
+Trip Quote: Jan 17 2017
+
+
+**************************************************************
+FLIGHT OPTION 1
+
+MELBOURNE > SYDNEY
+ Total journey time:  1h 25m
+
+ Jetstar Airways Pty Limited - JQ 608
+ FROM: Avalon Arpt, Melbourne (AVV)
+ TO: Kingsford Smith, Sydney (SYD)
+ DEPARTS: Sun Apr 30 2017 at 05:35 PM
+ ARRIVES: Sun Apr 30 2017 at 07:00 PM
+ CABIN CLASS: Economy (K), DURATION:  1h 25m
+ OPERATED BY: Jetstar Airways Pty Limited, AIRCRAFT: Airbus Industrie A320-100/200
+
+SYDNEY > MELBOURNE
+ Total journey time:  1h 35m
+
+ Jetstar Airways Pty Limited - JQ 611
+ FROM: Kingsford Smith, Sydney (SYD)
+ TO: Avalon Arpt, Melbourne (AVV)
+ DEPARTS: Sun Apr 30 2017 at 10:00 PM
+ ARRIVES: Sun Apr 30 2017 at 11:35 PM
+ CABIN CLASS: Economy (H), DURATION:  1h 35m
+ OPERATED BY: Jetstar Airways Pty Limited, AIRCRAFT: Airbus Industrie A320-100/200
+
+Price per ADT (Including Tax): 173.59 AUD
+Total: 173.59 AUD (1 ADT)
+
+
+**************************************************************
+FLIGHT OPTION 2
+
+MELBOURNE > SYDNEY
+ Total journey time:  1h 25m
+
+ Jetstar Airways Pty Limited - JQ 602
+ FROM: Avalon Arpt, Melbourne (AVV)
+ TO: Kingsford Smith, Sydney (SYD)
+ DEPARTS: Sun Apr 30 2017 at 06:00 AM
+ ARRIVES: Sun Apr 30 2017 at 07:25 AM
+ CABIN CLASS: Economy (L), DURATION:  1h 25m
+ OPERATED BY: Jetstar Airways Pty Limited, AIRCRAFT: Airbus Industrie A320-100/200
+
+SYDNEY > MELBOURNE
+ Total journey time:  1h 35m
+
+ Jetstar Airways Pty Limited - JQ 611
+ FROM: Kingsford Smith, Sydney (SYD)
+ TO: Avalon Arpt, Melbourne (AVV)
+ DEPARTS: Sun Apr 30 2017 at 10:00 PM
+ ARRIVES: Sun Apr 30 2017 at 11:35 PM
+ CABIN CLASS: Economy (H), DURATION:  1h 35m
+ OPERATED BY: Jetstar Airways Pty Limited, AIRCRAFT: Airbus Industrie A320-100/200
+
+Price per ADT (Including Tax): 202.59 AUD
+Total: 202.59 AUD (1 ADT)
+
+
+**************************************************************
+FLIGHT OPTION 3
+
+MELBOURNE > SYDNEY
+ Total journey time:  1h 25m
+
+ Jetstar Airways Pty Limited - JQ 602
+ FROM: Avalon Arpt, Melbourne (AVV)
+ TO: Kingsford Smith, Sydney (SYD)
+ DEPARTS: Sun Apr 30 2017 at 06:00 AM
+ ARRIVES: Sun Apr 30 2017 at 07:25 AM
+ CABIN CLASS: Economy (L), DURATION:  1h 25m
+ OPERATED BY: Jetstar Airways Pty Limited, AIRCRAFT: Airbus Industrie A320-100/200
+
+SYDNEY > MELBOURNE
+ Total journey time:  1h 35m
+
+ Jetstar Airways Pty Limited - JQ 609
+ FROM: Kingsford Smith, Sydney (SYD)
+ TO: Avalon Arpt, Melbourne (AVV)
+ DEPARTS: Sun Apr 30 2017 at 06:25 PM
+ ARRIVES: Sun Apr 30 2017 at 08:00 PM
+ CABIN CLASS: Economy (K), DURATION:  1h 35m
+ OPERATED BY: Jetstar Airways Pty Limited, AIRCRAFT: Airbus Industrie A320-100/200
+
+Price per ADT (Including Tax): 212.59 AUD
+Total: 212.59 AUD (1 ADT)

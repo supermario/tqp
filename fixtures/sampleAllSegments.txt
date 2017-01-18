@@ -1,0 +1,57 @@
+Trip Quote: Jan 18 2017
+
+
+**************************************************************
+FLIGHT OPTION 1
+
+MELBOURNE > SYDNEY
+ Total journey time:  1h 25m
+
+ Qantas Airways - QF 420
+ FROM: Tullamarine Arpt, Melbourne (MEL)
+ TO: Kingsford Smith, Sydney (SYD)
+ DEPARTS: Wed May 31 2017 at 09:30 AM
+ ARRIVES: Wed May 31 2017 at 10:55 AM
+ CABIN CLASS: Economy (E), DURATION:  1h 25m
+ OPERATED BY: Qantas Airways, AIRCRAFT: Airbus Industrie A330-300
+
+Price per ADT (Including Tax): 115.01 AUD
+Total: 115.01 AUD (1 ADT)
+
+
+**************************************************************
+HOTEL OPTION 1
+
+HOLIDAY INN DARLING HARBOUR
+
+ HOLIDAY INN DARLING HARBOUR
+ 68 HARBOUR ST
+ Sydney NS, AU
+
+ CHECK-IN: Wed May 31 2017
+ CHECK-OUT: Thu Jun 01 2017
+
+ADV PURCHASE BKFST SPECIAL SAVINGS ADVANCE PURCHASE. INCLUDES BREAKFAST FOR ONE OR TWO SUPERIOR ROOM WHEN YOU ARRIVE WE WILL DO OUR BED: N/A MEAL: B         VIEW: N/ABOOKINGS ARE NON-REFUNDABLE
+
+Price per night: 291.00 AUD
+Approximate total: 295.37 AUD
+
+
+**************************************************************
+CAR OPTION 1
+
+Thrifty Car Rental
+
+PICK UP:
+ Wed May 31 2017 at 10:39 PM
+ IN TERMINAL
+ Kingsford Smith (SYD)
+ Sydney, NS, Australia
+
+DROP OFF:
+ Wed May 31 2017 at 10:44 PM
+
+CAR TYPE: Economy
+
+Daily Rate: 44.98 AUD
+Approximate total: 65.31 AUD
