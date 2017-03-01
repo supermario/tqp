@@ -16,7 +16,7 @@ import           Text.Megaparsec.String
 
 hotelOption :: Parsec Dec String [OptionHotel]
 hotelOption = do
-    optionNumber <- numbers <* space
+    optionNumber  <- numbers <* space
     hotelSegments <- someTill hotelSegment hotelFooter
     space
     return hotelSegments
@@ -37,10 +37,10 @@ hotelOption = do
 hotelSegment = do
     name <- untilEol
     space
-    otherName <- untilEol
-    address1 <- untilEol
-    address2 <- untilEol
-    checkInDate <- space >> string "CHECK-IN: " >> untilEol
+    otherName    <- untilEol
+    address1     <- untilEol
+    address2     <- untilEol
+    checkInDate  <- space >> string "CHECK-IN: "  >> untilEol
     checkOutDate <- space >> string "CHECK-OUT: " >> untilEol
     space
     sellNotes <- untilEol
@@ -48,7 +48,7 @@ hotelSegment = do
     return OptionHotel {..}
 
 hotelFooter = do
-    string "Price" >> untilEol
+    string "Price"       >> untilEol
     string "Approximate" >> untilEol
 
 data OptionHotel = OptionHotel
