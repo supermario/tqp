@@ -1,4 +1,4 @@
-
+{-# LANGUAGE RecordWildCards #-}
 
 module Hotel
   (hotelOption)
@@ -45,16 +45,7 @@ hotelSegment = do
     space
     sellNotes <- untilEol
     space
-    return
-        OptionHotel
-        { name = name
-        , otherName = otherName
-        , address1 = address1
-        , address2 = address2
-        , checkInDate = checkInDate
-        , checkOutDate = checkOutDate
-        , sellNotes = sellNotes
-        }
+    return OptionHotel {..}
 
 hotelFooter = do
     string "Price" >> untilEol
@@ -68,4 +59,4 @@ data OptionHotel = OptionHotel
     , checkInDate  :: String
     , checkOutDate :: String
     , sellNotes    :: String
-    } deriving ((((Show))))
+    } deriving (Show)
